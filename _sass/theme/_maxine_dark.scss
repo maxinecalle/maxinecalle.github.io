@@ -1,0 +1,62 @@
+/* ==========================================================================
+    MAXINE'S THEME - DARK VERSION
+    ========================================================================== */
+/* Color codes used for the theme */
+$primary-color              : #4682b4;
+$accent-color               : mix(#000, #E0E0E0, 10%);
+$dark-primary-color         : mix(#000, $primary-color, 40%);
+$darker-primary-color       : mix(#000, $primary-color, 60%);
+$light-primary-color        : mix(#fff, $primary-color, 50%);
+$lighter-primary-color      : mix(#fff, $primary-color, 90%);
+$background                 : #0f0b0c;
+$background-light           : mix(#fff, $background, 20%);
+$background-lighter        : mix(#fff, $background, 40%);
+$text                      : #E0E0E0;
+$text-muted                : mix(#fff, $text, 10%);
+$link                      : mix(#fff, $primary-color, 10%);
+$link-hover                : mix(#000, #CA3C08, 40%);
+$link-visited              : mix(#fff, $primary-color, 30%);
+$footer                    : #0f0b0c;
+$border                    : $primary-color;
+$border-dark               : mix(#000, $border, 20%);
+$code-bg                   : #0d0806;
+$code-bg-dark              : #0f0907;
+
+/* Color codes used for the site */
+$danger-color               : #ff6b7f;
+$info-color                 : #52adc8;
+$notice-color               : #f9b248;
+$success-color              : #78c978;
+$warning-color              : #f9b248;
+
+/* Other basic settings for the template */
+$border-radius              : 4px;
+$box-shadow                 : 0 1px 1px rgba(255, 255, 255, 0.125);
+$global-transition          : all 0.2s ease-in-out;
+$masthead-height            : 70px;
+$navicon-width              : 28px;
+$navicon-height             : 4px;
+$sidebar-link-max-width     : 250px;
+$sidebar-screen-min-width   : 1024px;
+
+/* Maxine dark theme CSS variables */
+html[data-theme="dark"] {
+    --global-base-color                 : #{$primary-color};
+    --global-accent-color               : #{$accent-color};
+    --global-bg-color                   : #{$background};
+    --global-footer-bg-color            : #{$footer};
+    --global-masthead-color             : #{$footer};
+    --global-border-color               : #{$border};
+    --global-dark-border-color          : #{$border-dark};
+    --global-code-background-color      : #{$code-bg};
+    --global-code-text-color            : #{$text};
+    --global-fig-caption-color          : #{$text-muted};
+    --global-link-color                 : #{$link};
+    --global-link-color-hover           : #{$link-hover};
+    --global-link-color-visited         : #{$link-visited};
+    --global-masthead-link-color        : #{$text};
+    --global-masthead-link-color-hover  : #{$link-hover};
+    --global-text-color                 : #{$text};
+    --global-text-color-light           : #{$text-muted};
+    --global-thead-color                : #{$background-lighter};
+}

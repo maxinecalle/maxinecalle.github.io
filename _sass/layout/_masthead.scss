@@ -2,46 +2,50 @@
    MASTHEAD
    ========================================================================== */
 
-.masthead {
-  position: fixed;
-  background: var(--global-bg-color);
-  height: fit-content;
-  top: 0;
-  width: 100%;
+.masthead { 
+  position: fixed; 
+  background: var(--global-masthead-color); 
+  height: fit-content; top: 0; width: 100%; 
 
-  -webkit-animation: intro 0.3s both;
-          animation: intro 0.3s both;
-  -webkit-animation-delay: 0.15s;
-          animation-delay: 0.15s;
-  z-index: 20;
+  -webkit-animation: intro 0.3s both; 
+  animation: intro 0.3s both; -webkit-animation-delay: 0.15s; animation-delay: 0.15s; 
+  z-index: 20; 
 
-  &::after {
-    content: "";
-    position: absolute;
-    bottom: 0;
-    height: 1px;
-    background: var(--global-border-color);
-    width: 100%;
-  }
+  &::before { 
+  content: ""; 
+  display: block; 
+  width: 100%; height: 50px; 
+  background: url("/images/banner.jpg") center/cover no-repeat; 
+  position: relative; 
+  z-index: 1; 
+} 
 
-  &__inner-wrap {
-    @include container;
-    @include clearfix;
-    padding: 0.5em 1em;
-    font-family: $sans-serif-narrow;
+  &::after { 
+  content: ""; 
+  position: absolute; 
+  top: 0; left: 0; width: 100%; height: 50px; 
 
-    @include breakpoint($x-large) {
-      max-width: $x-large;
-    }
+  /* fade image into nav background */ 
+  background: linear-gradient( 
+  to bottom, 
+  rgba(0, 0, 0, 0) 10%, 
+  var(--global-masthead-color) 100% 
+  ); 
+  z-index: 2; pointer-events: none; 
+} 
 
-    nav {
-      z-index: 10;
-    }
+  &__inner-wrap { 
+  @include container; @include clearfix; 
+  padding: 0.5em 1em; 
+  font-family: $sans-serif-narrow; 
+  @include breakpoint($x-large) { max-width: $x-large; } nav { z-index: 10; } a { text-decoration: none; } } 
+}
 
-    a {
-      text-decoration: none;
-    }
-  }
+.masthead__inner-wrap::after { 
+  content: ""; 
+  position: absolute; 
+  left: 0; bottom: 0; width: 100%; height: 1px; 
+  background: var(--global-border-color); 
 }
 
 .masthead__menu {
@@ -55,7 +59,7 @@
 }
 
 .masthead__menu-item {
-  background-color: var(--global-bg-color);
+  background-color: var(--global-masthead-color);
   display: block;
   list-style-type: none;
   white-space: nowrap;

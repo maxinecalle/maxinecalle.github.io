@@ -184,6 +184,46 @@ li ol {
   margin-top: 0.5em;
 }
 
+details summary {
+  font-size: 0.8rem;
+}
+
+details {
+  font-size: 0.8rem;
+}
+
+.dropdown-box {
+  border: 1px solid var(--global-border-color);
+  padding: 1em;
+  border-radius: 6px;
+  background-color: var(--global-bg-color);
+}
+
+.custom-dropdown summary {
+  display: inline-block;
+  background-color: var(--global-footer-bg-color);
+  border: 1px solid var(--global-bg-color);
+  color: var(--global-text-color);
+  padding: 0.6em 0.6em;
+  border-radius: 6px;
+  cursor: pointer;
+  list-style: none;
+}
+
+.custom-dropdown summary::-webkit-details-marker {
+  display: none;
+}
+
+
+.custom-dropdown-box {
+  border: 1px solid var(--global-bg-color);
+  padding: 1em;
+  background-color: var(--global-footer-bg-color);
+}
+
+
+
+
 /*
    Media and embeds
    ========================================================================== */
