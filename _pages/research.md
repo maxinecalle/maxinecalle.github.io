@@ -6,7 +6,11 @@ redirect_from:
   - "/research.html"
 ---
 
-I study algebraic topology, particularly homotopy theory, category theory, and <em>K</em>-theory, and the applications of these theories to manifolds. My favorite kinds of problems involve understanding topological/geometric structure using the tools of homotopy theory. Click below to learn more details.
+<div style="display: flex; align-items: flex-start; gap: 15px;">
+  <p style="flex: 1;"> I study algebraic topology, particularly homotopy theory, category theory, and <em>K</em>-theory, and the applications of these theories to manifolds. My favorite kinds of problems involve understanding topological/geometric structure using the tools of homotopy theory. Click below to learn more details.
+  </p>
+  <img src="/images/kleinbottle-transparent.gif" class="responsive-img">
+</div>
 
 <details class="custom-dropdown">
   <summary>Explanation for a general audience</summary>
@@ -27,7 +31,7 @@ I study algebraic topology, particularly homotopy theory, category theory, and <
   <summary>Explanation for general mathematicians</summary>
 
   <div class="custom-dropdown-box">
-	<p>I study <strong>algebraic topology</strong>, and I'm interested in how tools from <strong>homotopy theory </strong>and <strong>category theory </strong>can be used to address problems in geometry and topology. A unifying theme of my work is to understand how invariants from algebraic topology behave in the presence of symmetry.</p>
+	<p>I'm interested in how tools from <strong>homotopy theory </strong>and <strong>category theory </strong>can be used to address problems in geometry and topology. A unifying theme of my work is to understand how invariants from algebraic topology behave in the presence of symmetry.</p>
 	<p>At the heart of higher algebraic <em>K</em>-theory is the idea that mathematical objects can be studied by analyzing how they decompose and reassemble — a principle that arises in seemingly unrelated fields. While originally defined to capture algebraic invariants of rings, higher algebraic <em>K</em>-theory has since grown far beyond its initial scope to encompass increasingly rich and intricate settings. One powerful example that is particularly relevant to my work is Waldhausen's <a href="https://doi.org/10.1007/BFb0074449">algebraic <em>K</em>-theory of spaces</a>, which he developed to better understand the topology of manifolds via a space-level lift of Smale's award-winning <a href="https://en.wikipedia.org/wiki/H-cobordism"><em>h</em>-cobordism theorem</a>. The resulting <em>stable parametrized h-cobordism theorem</em> marked the conclusion of a long development in geometric topology.</p>
 	<p>My thesis work extends Waldhausen's construction to apply to <a href="https://en.wikipedia.org/wiki/Orbifold"><em>orbifolds</em></a>, a generalization of manifolds which allow for certain singularity points. Orbifolds arise naturally in many areas of mathematics and physics, including differential geometry, representation theory, string theory, and moduli problems. Despite the ubiquity of orbifolds, there is still much to be understood about how to extend important manifold techniques to this setting.</p>
 	<p>Part of my research program is the development of new homotopy-theoretic tools to study orbifolds and the extension of foundational tools from manifold theory to this singular setting. I'm particularly interested in understanding the connection between my thesis work and orbifold bordism and, more broadly, how perspectives from modern homotopy theory can lend new insight into the algebraic topology of orbifolds.</p>
@@ -54,14 +58,16 @@ I study algebraic topology, particularly homotopy theory, category theory, and <
 <div style="height: 20px;"></div>
 
 
-I like the way Fields medalist [Maryam Mirzakhani](https://news.stanford.edu/2017/07/15/maryam-mirzakhani-stanford-mathematician-and-fields-medal-winner-dies) described mathematical research: it's like “being lost in a jungle and trying to use all the knowledge that you can gather to come up with some new tricks, and with some luck you might find a way out.”
+I like the way Fields medalist [Maryam Mirzakhani described mathematical research](https://news.stanford.edu/2017/07/15/maryam-mirzakhani-stanford-mathematician-and-fields-medal-winner-dies): it's like “being lost in a jungle and trying to use all the knowledge that you can gather to come up with some new tricks, and with some luck you might find a way out.”
 
 <h2 style="color:var(--global-accent-color);">Publications and preprints</h2>
 
 - On the classifying space of a Morse flow category (with Fangji Liu). Available on <a href="https://arxiv.org/abs/2603.23695">arXiv</a>. 
 	<details>
   	<summary>Summary</summary>
-	<div class="dropdown-box"> We show that the classifying space of a Morse function <em>f</em> on a smooth, closed manifold <em>M</em> recovers the homotopy type of <em>M</em>, as long as the gradient flow is suitably "tame" (just meaning that the compactified moduli spaces of broken gradient trajectories are locally contractible). We show that this tameness assumption is crucial by constructing a Morse function and Riemannian metric on S<sup>2</sup>×S<sup>1</sup> for which the associated flow category fails to recover the correct homotopy type. This paper addresses a claim in a <a href="https://www.math.toronto.edu/mgualt/Morse Theory/CohenJonesSegal.pdf">preprint of Cohen-Jones-Segal</a>, and finally finishes the work I started in <a href="https://bpb-us-w2.wpmucdn.com/web.sas.upenn.edu/dist/0/713/files/2020/07/CalleReedThesis.pdf">my undergraduate thesis</a>! </div>
+	<div class="dropdown-box"> <p>We show that the classifying space of a Morse function <em>f</em> on a smooth, closed manifold <em>M</em> recovers the homotopy type of <em>M</em>, as long as the gradient flow is suitably "tame" (just meaning that the compactified moduli spaces of broken gradient trajectories are locally contractible). We show that this tameness assumption is crucial by constructing a Morse function and Riemannian metric on S<sup>2</sup>×S<sup>1</sup> for which the associated flow category fails to recover the correct homotopy type.</p>
+
+        <p>This paper addresses a gap in a <a href="https://www.math.toronto.edu/mgualt/Morse Theory/CohenJonesSegal.pdf">preprint of Cohen-Jones-Segal</a>, and finally finishes the work I started in <a href="https://bpb-us-w2.wpmucdn.com/web.sas.upenn.edu/dist/0/713/files/2020/07/CalleReedThesis.pdf">my undergraduate thesis</a>! </p></div>
 	</details>
 - A comparison of definitions of equivariant trees (with <a href="https://sites.google.com/view/julie-bergner/">Julie Bergner</a>, <a href="https://sites.google.com/view/davidchanmath">David Chan</a>, <a href="https://people.reed.edu/~aosorno/">Angélica Osorno</a>, and <a href="https://sites.google.com/view/msarazola/home">Maru Sarazola</a>). Available on <a href="https://arxiv.org/abs/2512.14956">arXiv</a>.
 	<details>
@@ -98,21 +104,21 @@ I like the way Fields medalist [Maryam Mirzakhani](https://news.stanford.edu/201
   	<summary>Summary</summary><div class="dropdown-box">
 	<p>The linearization map relates the Waldhausen A-theory of a space X to the <em>K</em>-theory of the group ring <span id="MathJax-Span-24" class="texatom"><span id="MathJax-Span-25" class="mrow"><span id="MathJax-Span-26" class="mi">ℤ</span></span></span><span id="MathJax-Span-27" class="mo">[</span><span id="MathJax-Span-28" class="msubsup"><span id="MathJax-Span-29" class="mi">π</span><span id="MathJax-Span-30" class="mn"><sub>1</sub></span></span><span id="MathJax-Span-31" class="mo">(</span><em><span id="MathJax-Span-32" class="mi">X</span></em><span id="MathJax-Span-33" class="mo">)</span><span id="MathJax-Span-34" class="mo">]</span> and plays an important role in computations. When <em>X</em> has an action by a finite group <em>G</em>, <a href="https://doi.org/10.4171/dm/694">Malkiewich–Merling have constructed</a> a genuine equivariant <em>A</em>-theory spectrum for <em>X. </em>In this paper, we construct the equivariant analogue of <em>K</em>(<span id="MathJax-Span-24" class="texatom"><span id="MathJax-Span-25" class="mrow"><span id="MathJax-Span-26" class="mi">ℤ</span></span></span><span id="MathJax-Span-27" class="mo">[</span><span id="MathJax-Span-28" class="msubsup"><span id="MathJax-Span-29" class="mi">π</span><span id="MathJax-Span-30" class="mn"><sub>1</sub></span></span><span id="MathJax-Span-31" class="mo">(</span><em><span id="MathJax-Span-32" class="mi">X</span></em><span id="MathJax-Span-33" class="mo">)</span><span id="MathJax-Span-34" class="mo">]) which is the target of an equivariant linearization map. </span></p>
 
-	<p>Check out the <span id="MathJax-Span-34" class="mo"><a href="https://machineappreciation.wordpress.com/2023/09/23/a-users-guide-a-linearization-map-for-genuine-equivariant-algebraic-k-theory/">user's guide</a></span> for this paper or<a href="https://web.sas.upenn.edu/callem/files/2024/01/Linearization-slides-489d83f71cbf339d.pdf"> slides</a> for a talk (~20m) which I presented at JMM (2024).</p>
+	<p>Check out the <span id="MathJax-Span-34" class="mo"><a href="https://machineappreciation.wordpress.com/2023/09/23/a-users-guide-a-linearization-map-for-genuine-equivariant-algebraic-k-theory/">user's guide</a></span> for this paper or <a href="/files/Linearization-slides.pdf">slides</a> for a talk (~20m) which I presented at JMM (2024).</p>
 	</div></details>
-- <a href="https://www.sciencedirect.com/science/article/abs/pii/S0166864125002469">Nested cobordisms, Cyl-objects, and Temperley-Lieb algebras</a> (with <a href="https://reneehoekzema.nl/">Renee S. Hoekzema</a>, <a href="https://sites.google.com/view/lauramurray/home">Laura Murray</a>, <a href="https://natipt.github.io/">Natalia Pacheco-Tallaj</a>, <a href="https://webpages.math.luc.edu/~crovi/">Carmen Rovi</a>, and <a href="https://shruthisridharshapiro.github.io/">Shruthi Sridhar-Shapiro</a>). <em>Topology and its</em> <em>Applications</em>: <span class="anchor-text-container"><span class="anchor-text">Vol. 376</span></span>, no. 109448 (2025). Also available on <a href="https://arxiv.org/abs/2403.01067">arXiv</a>.
+- <a href="https://doi.org/10.1016/j.topol.2025.109448">Nested cobordisms, Cyl-objects, and Temperley-Lieb algebras</a> (with <a href="https://reneehoekzema.nl/">Renee S. Hoekzema</a>, <a href="https://sites.google.com/view/lauramurray/home">Laura Murray</a>, <a href="https://natipt.github.io/">Natalia Pacheco-Tallaj</a>, <a href="https://webpages.math.luc.edu/~crovi/">Carmen Rovi</a>, and <a href="https://shruthisridharshapiro.github.io/">Shruthi Sridhar-Shapiro</a>). <em>Topology and its</em> <em>Applications</em>: <span class="anchor-text-container"><span class="anchor-text">Vol. 376</span></span>, no. 109448 (2025). Also available on <a href="https://arxiv.org/abs/2403.01067">arXiv</a>.
 	<details>
   	<summary>Summary</summary><div class="dropdown-box">
 	<p>Our paper defines a nested cobordism category whose objects nested manifolds — which can be thought of as manifolds with embedded submanifolds (which may themselves have embedded submanifolds, and so on) — and nested cobordisms between them. We study this category with an eye towards the celebrated folklore theorem that identifies 2-dimensional TQFTs with Frobenius algebras.</p>
 
-	<p>Check out <a href="https://web.sas.upenn.edu/callem/files/2026/01/Nested-cob-talk-tqft-seminar-slides.pdf">slides</a> for a talk (~50m) which I presented at the <a href="https://tqft.math.tecnico.ulisboa.pt/">TQFT club seminar</a> (2026).</p>
+	<p>Check out <a href="/files/nested-tqft-talk-slides.pdf">slides</a> for a talk (~50m) which I presented at the <a href="https://tqft.math.tecnico.ulisboa.pt/">TQFT club seminar</a> (2026).</p>
 	</div></details>
 - <a href="https://dx.doi.org/10.4310/HHA.2025.v27.n1.a16">A combinatorial <em>K</em>-theory perspective on the Edge Reconstruction Conjecture in graph theory</a>  (with Julian J. Gould). <em>Homology, Homotopy and Applications: </em>Vol. 27(1) (2025). Also available on <a href="https://arxiv.org/abs/2402.14986">arXiv</a>.
 	<details>
   	<summary>Summary</summary><div class="dropdown-box">
 	<p>The <a href="https://en.wikipedia.org/wiki/Reconstruction_conjecture">Edge Reconstruction Conjecture</a> asks whether a graph is determined by its multiset of "edge-deleted" subgraphs. In this paper, we rephrase this reconstruction problem using a <em>K</em>-theoretic framework. Our work — while not proving (or disproving) any part of the conjecture — opens up new avenues for exploration, both <em>K</em>-theoretic and combinatorial.</p>
 
-	<p>Check out <a href="https://web.sas.upenn.edu/callem/files/2024/11/ERC.pdf">slides</a> for a talk (~20m) which I presented at BUGCAT (2024).</p>
+	<p>Check out <a href="/files/ERC-slides.pdf">slides</a> for a talk (~20m) which I presented at BUGCAT (2024).</p>
 	</div></details>
 - <a href="http://www.tac.mta.ca/tac/volumes/45/15/45-15abs.html">Equivariant Trees and Partition Complexes</a> (with <a href="https://sites.google.com/view/julie-bergner/">Julie Bergner</a>, <a href="https://petejb88.github.io">Peter Bonventre</a>, <a href="https://sites.google.com/view/davidchanmath">David Chan</a>, and <a href="https://sites.google.com/view/msarazola/home">Maru Sarazola</a>). <em>Theory and Applications of Categories</em>:
 Vol. 45, 2026, No. 15, p. 501-536 (2026). Also available on <a href="https://arxiv.org/abs/2302.08949">arXiv</a>.
@@ -120,21 +126,21 @@ Vol. 45, 2026, No. 15, p. 501-536 (2026). Also available on <a href="https://arx
   	<summary>Summary</summary><div class="dropdown-box">
 	<p>Given a finite set, the collection of partitions of this set forms a poset category under the coarsening relation, and this category is directly related to a space of trees. In this paper, we explore several possible generalizations of these objects to an equivariant setting, where the finite set comes equipped with a group action.</p>
 
-	<p>Check out <a href="https://web.sas.upenn.edu/callem/files/2022/11/BUGCAT-trees-talk.pdf">slides</a> for a talk (~20m) which I presented at BUGCAT (2022).</p>
+	<p>Check out <a href="/files/BUGCAT-trees-talk.pdf">slides</a> for a talk (~20m) which I presented at BUGCAT (2022).</p>
 	</div></details>
 - <a href="https://www.sciencedirect.com/science/article/pii/S0022404923000270?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&amp;utm_medium=email&amp;utm_acid=224477885&amp;SIS_ID=&amp;dgcid=STMJ_AUTH_SERV_PUBLISHED&amp;CMX_ID=&amp;utm_in=DM341514&amp;utm_source=AC_">The Spectrum of the Burnside Tamara Functor of a Cyclic Group</a> (with Sam Ginnett). <i>Journal of Pure and Applied Algebra: </i>Vol. 227, Iss. 8 (2023). Also available on <a href="https://arxiv.org/abs/2011.04729" target="_blank" rel="noopener noreferrer">arXiv.</a>
 	<details>
   	<summary>Summary</summary><div class="dropdown-box">
 	<p>We determine a family of prime Tambara ideals in the Burnside Tambara functor on a  finite group<em> G</em>. When <em>G</em> is cyclic, we show that this family comprises the entire prime ideal spectrum of the Burnside Tambara functor.</p>
 	
-	<p>Check out <a href="https://web.sas.upenn.edu/callem/files/2024/01/Tambara-ideals-slides-b0f6485e0c6de82c.pdf">slides</a> for a talk (~20m) which I presented at JMM (2024).</p>
+	<p>Check out <a href="/files/Tambara-ideals-slides.pdf">slides</a> for a talk (~20m) which I presented at JMM (2024).</p>
 	</div></details>
 - <a href="https://www.sciencedirect.com/science/article/abs/pii/S0021869320302702">The Tambara Structure of the Trace Ideal</a> (with Sam Ginnett). <em>Journal of Algebra</em>: Vol. 560 (2020). Also available on <a href="https://arxiv.org/abs/1910.03029.pdf" target="_blank" rel="noopener noreferrer">arXiv.</a>
 	<details>
   	<summary>Summary</summary><div class="dropdown-box">
 	<p>We study the kernel of the Dress map as a morphism from the Burnside Tambara functor to the Grothendieck-Witt (Galois) Tambara Functor. In certain cases, we can explicitly determine the generators of this kernel as a Tambara ideal.</p>
 
-	<p>Check out slides for my talks about this paper: a <a href="https://web.sas.upenn.edu/callem/files/2020/08/TambaraTIlong.pdf">long version</a> (~50 min) presented at the Reed College Student Colloquium (2020) and a <a href="https://web.sas.upenn.edu/callem/files/2020/08/TambaraTIshort.pdf">short version</a> (~15 min) presented at the <a href="https://www.math.unl.edu/~ncuwm/22ndAnnual/" target="_blank" rel="noopener noreferrer">Nebraska Conference for Undergraduate Women in Mathematics</a> (2020).</p>
+	<p>Check out slides for my talks about this paper: a <a href="/files/TambaraTIlong.pdf">long version</a> (~50 min) presented at the Reed College Student Colloquium (2020) and a <a href="/files/TambaraTIshort.pdf">short version</a> (~15 min) presented at the <a href="https://www.math.unl.edu/~ncuwm/22ndAnnual/" target="_blank" rel="noopener noreferrer">Nebraska Conference for Undergraduate Women in Mathematics</a> (2020).</p>
 	</div></details>
 - <a href="https://msp.org/involve/2020/13-3/p06.xhtml">Sharp Sectional Curvature Bounds and a New Proof of the Spectral Theorem</a> (with <a href="https://sites.google.com/csusb.edu/coreydunn/about" target="_blank" rel="noopener noreferrer">Corey Dunn</a>). <em>Involve, a Journal of Mathematics</em>: Vol. 13, No. 3 (2020). Also available on <a href="https://arxiv.org/pdf/1809.04200.pdf" target="_blank" rel="noopener noreferrer">arXiv</a>.
 	<details>
@@ -146,46 +152,55 @@ Vol. 45, 2026, No. 15, p. 501-536 (2026). Also available on <a href="https://arx
   	<summary>Summary</summary><div class="dropdown-box">
 	<p>Constant sectional curvature and constant vector curvature are two curvature invariants of an algebraic curvature tensor which take in <em>2</em>-planes as input. We generalize these invariants to take <em>k</em>-planes as input and explore their structure. Just as in the <em>k=2</em> case, we show that a space with constant <em>k</em>-plane scalar curvature has a uniquely determined tensor and that a tensor can be recovered from its <em>k</em>-plane scalar curvature measurements.</p>
 
-	<p>Check out <a href="https://web.sas.upenn.edu/callem/files/2020/08/kPlane20.pdf">slides</a> for a talk (~20 min) which I presented at various undergraduate symposiums circa 2018.</p>
+	<p>Check out <a href="/files/kPlane20-slides.pdf">slides</a> for a talk (~20 min) which I presented at various undergraduate symposiums circa 2018.</p>
 	</div></details>
 
 
 <h2 style="color:var(--global-accent-color);">Theses</h2>
 
-- Algebraic <em>K</em>-theory of orbispaces. Ph.D. thesis (2026) supervised by Prof. Mona Merling.
-- <a href="https://web.sas.upenn.edu/callem/files/2022/06/minor_masters_thesis-finaldraft.pdf">An Introduction to Symplectic Geometry for Lagrangian Floer Homology</a>. Expository master's thesis (2022) written as part of my Ph.D. qualifying exam, supervised by Prof. <a href="https://www2.math.upenn.edu/~blockj/">Jonathan Block</a>. Here are my <a href="https://web.sas.upenn.edu/callem/files/2022/06/Minor-presentation-notes-.pdf">notes</a> from a talk (~50min) for the graduate geometry/topology seminar.
-- <a href="https://web.sas.upenn.edu/callem/files/2020/07/CalleReedThesis.pdf">Morse Theory and Flow Categories</a>. Reed College undergraduate thesis (2020), advised by Prof. <a href="https://people.reed.edu/~ormsbyk/" target="_blank" rel="noopener noreferrer">Kyle Ormsby</a>. <em>Disclaimer: </em>there are some errors in the later sections. Here's a <a href="https://machineappreciation.wordpress.com/2022/02/01/a-morse-homotopy-theory-problem/">blog post</a> about what went wrong. You can also check out a <a href="https://web.sas.upenn.edu/callem/files/2022/06/Morse-talk-notes.pdf">notes</a> from a talk (~50min) I gave in the graduate geometry/topology seminar.
+- Algebraic <em>K</em>-theory of orbispaces. Ph.D. thesis (2026) supervised by Prof. Mona Merling. Here's an explanation of my thesis <a href="/files/thesis-intro-general">for a general audience</a> and <a href="/files/thesis-intro-math">for mathematicians</a>, and here are the <a href="/files/thesis-slides.pdf">slides</a> from my defense (~30min).
+- <a href="/files/minor_masters_thesis-finaldraft.pdf">An Introduction to Symplectic Geometry for Lagrangian Floer Homology</a>. Expository master's thesis (2022) written as part of my Ph.D. qualifying exam, supervised by Prof. <a href="https://www2.math.upenn.edu/~blockj/">Jonathan Block</a>.
+- <a href="https://web.sas.upenn.edu/callem/files/2020/07/CalleReedThesis.pdf">Morse Theory and Flow Categories</a>. Reed College undergraduate thesis (2020), advised by Prof. <a href="https://people.reed.edu/~ormsbyk/" target="_blank" rel="noopener noreferrer">Kyle Ormsby</a>. <em>Disclaimer: </em>there are some errors in the later sections. Here's a <a href="https://machineappreciation.wordpress.com/2022/02/01/a-morse-homotopy-theory-problem/">blog post</a> about what went wrong.
 
 <h2 style="color:var(--global-accent-color);">Expository writing and slides</h2>
 
 <ul>
  	<li><a href="https://hiroleetanaka.com/workshop-2025/notes-05.pdf">Orbispaces as stacks: geometry and examples</a>. Write-up for a talk at the <a href="https://hiroleetanaka.com/workshop-2025/index.php">Moduli spaces of pseudo-holomorphic curves</a> workshop (May 2025).</li>
- 	<li><a href="https://web.sas.upenn.edu/callem/files/2024/12/SLMath_cyclotomic_notes-1.pdf">Cyclotomic spectra</a>. Write-up for a talk at the <a href="https://www.slmath.org/workshops/1103">Hot Topics: Life after the Telescope Conjecture workshop</a> at SLMath (December 2024).</li>
- 	<li><a href="https://web.sas.upenn.edu/callem/files/2024/07/AIM_2024_SCKT_talk_notes.pdf">The scissors congruence <em>K</em>-theory of polytopes is a Thom spectrum</a>. Write-up for a talk at the <a href="https://aimath.org/pastworkshops/scissorssteinberg.html">Scissors congruences, algebraic <em>K</em>-theory, and Steinberg modules workshop</a> at AIM (Summer 2024).</li>
+ 	<li><a href="/files/SLMath-cyclotomic-notes.pdf">Cyclotomic spectra</a>. Write-up for a talk at the <a href="https://www.slmath.org/workshops/1103">Hot Topics: Life after the Telescope Conjecture workshop</a> at SLMath (December 2024).</li>
+ 	<li><a href="/files/AIM-SCKT-notes.pdf">The scissors congruence <em>K</em>-theory of polytopes is a Thom spectrum</a>. Write-up for a talk at the <a href="https://aimath.org/pastworkshops/scissorssteinberg.html">Scissors congruences, algebraic <em>K</em>-theory, and Steinberg modules workshop</a> at AIM (Summer 2024).</li>
  	<li><a href="http://Looking into Mirror Symmetry at JMM 2024">Looking into Mirror Symmetry at the 2024 JMM</a>. Feature story in News from the AMS (February 2024).</li>
- 	<li><a href="https://web.sas.upenn.edu/callem/files/2022/06/Talbot_2022_talk_notes.pdf">Square <em>K</em>-Theory and Manifold Invariants</a>. Write-up for a talk at <a href="https://math.mit.edu/events/talbot/index.php?year=2022">Talbot 2022: Scissors Congruence and Algebraic <em>K</em>-theory</a> (Summer 2022). Check out the <a href="https://web.sas.upenn.edu/callem/files/2022/06/Talbot-talk-slides.pdf">slides</a> for my presentation (~50min).</li>
- 	<li><a href="https://web.sas.upenn.edu/callem/files/2026/01/Waldhausen_additivity_notes.pdf">Notes on Waldhausen's higher algebraic <em>K</em>-theory</a>. These are notes that came out of preparing for my PhD qualifying exam (Spring 2022). Read at your own peril.</li>
- 	<li><a href="https://web.sas.upenn.edu/callem/files/2025/04/Classifying_spaces_of_topological_categories.pdf">Notes on classifying spaces of topological categories</a>. Some notes about classifying spaces of categories and what happens when that category comes with extra topological structure.  Some of this was adapted from my undergrad thesis (Spring 2020), some was written in preparation for my PhD qualifying exam (Spring 2022), and some of it is just for fun.</li>
- 	<li><a href="https://web.sas.upenn.edu/callem/files/2022/07/Infinite_Loop_Spaces.pdf">A Bit About Infinite Loop Spaces</a>. An expository overview of infinite loop space theory written for Math 619: Algebraic Topology I (Spring 2021) at UPenn, with Prof. <a href="https://www2.math.upenn.edu/~mmerling/index.html" target="_blank" rel="noopener">Mona Merling</a>.  Check out the <a href="https://web.sas.upenn.edu/callem/files/2021/04/619-Loop-Spaces-Talk-Slides.pdf">slides</a> for my presentation (~25min).</li>
- 	<li><a href="https://web.sas.upenn.edu/callem/files/2020/08/FSTnotes.pdf">Freudenthal Suspension Theorem</a>. Supplementary write-up to presentation for the <a href="https://www.math.upenn.edu/~mmerling/summerworkshop2020.html">Algebraic Topology Bridge Summer workshop</a> (Summer 2020). Check out the <a href="https://web.sas.upenn.edu/callem/files/2020/08/FSTslides.pdf">slides</a> for my presentation (~50 min).</li>
+ 	<li><a href="/files/Talbot_2022_talk_notes.pdf">Square <em>K</em>-Theory and Manifold Invariants</a>. Write-up for a talk at <a href="https://math.mit.edu/events/talbot/index.php?year=2022">Talbot 2022: Scissors Congruence and Algebraic <em>K</em>-theory</a> (Summer 2022). Check out the <a href="/files/Talbot-talk-slides.pdf">slides</a> for my presentation (~50min).</li>
+ 	<li><a href="/files/Waldhausen-additivity-notes.pdf">Notes on Waldhausen's higher algebraic <em>K</em>-theory</a>. These are notes that came out of preparing for my PhD qualifying exam (Spring 2022). Read at your own peril.</li>
+ 	<li><a href="/files/classifying-spaces-of-topological-categories.pdf">Notes on classifying spaces of topological categories</a>. Some notes about classifying spaces of categories and what happens when that category comes with extra topological structure.  Some of this was adapted from my undergrad thesis (Spring 2020), some was written in preparation for my PhD qualifying exam (Spring 2022), and some of it is just for fun.</li>
+ 	<li><a href="/files/Infinite_Loop_Spaces.pdf">A Bit About Infinite Loop Spaces</a>. An expository overview of infinite loop space theory written for Math 619: Algebraic Topology I (Spring 2021) at UPenn, with Prof. <a href="https://www2.math.upenn.edu/~mmerling/index.html" target="_blank" rel="noopener">Mona Merling</a>.  Check out the <a href="/files/619-Loop-Spaces-Talk-Slides.pdf">slides</a> for my presentation (~25min).</li>
+ 	<li><a href="/slides/FSTnotes.pdf">Freudenthal Suspension Theorem</a>. Supplementary write-up to presentation for the <a href="https://www.math.upenn.edu/~mmerling/summerworkshop2020.html">Algebraic Topology Bridge Summer workshop</a> (Summer 2020). Check out the <a href="/files/FSTslides.pdf">slides</a> for my presentation (~50 min).</li>
 </ul>
 
-**Slides from other expository talks:**
+<img src="/images/pants-transparent.gif" class="responsive-img" align="right" style="margin-right: 15px;">
 
+<h3>Slides from other expository talks</h3>
 <ul>
  	<li><a href="https://web.sas.upenn.edu/callem/files/2025/02/SK-slides.pdf">How to cut up shapes using algebraic topology</a> (~10m), presented at the UPenn graduate student open house (Spring 2025).</li>
- 	<li><a href="https://web.sas.upenn.edu/callem/files/2025/02/social-choice-slides.pdf">Social choice problems and algebraic topology</a> (~10m), presented at the UPenn graduate student open house (Spring 2024).</li>
- 	<li><a href="https://web.sas.upenn.edu/callem/files/2023/11/BIRS-talk-slides-draft.pdf">The Stable Parametrized h-Cobordism Theorem: the K-theory part</a> (~30m), presented at the online seminar leading up to the <a id="m_8427137945270823812OWA2c927ab8-b74c-619f-316b-d3692042b7fb" href="https://www.birs.ca/events/2023/5-day-workshops/23w5017" target="_blank" rel="noopener noreferrer" data-saferedirecturl="https://www.google.com/url?q=https://urldefense.com/v3/__https://www.birs.ca/events/2023/5-day-workshops/23w5017__;!!IBzWLUs!WGL7pObwrUigXEejF_y2M2iwyR36zjNo1Ufn7XgNK8mUR9f-s60bzKgXbh-gewfZvaIwXJQQeMYXeK-F4Drsrd1dn4U5FA$&amp;source=gmail&amp;ust=1700154671878000&amp;usg=AOvVaw0xfmF91ilm4EFMhxMFHGd_">Spaces of Manifolds: Algebraic and Geometric Approaches</a> <span class="il">BIRS</span> workshop (Fall 2023).</li>
- 	<li><a href="https://web.sas.upenn.edu/callem/files/2021/10/eCHT_bundles_slides.pdf">Equivariant Bundle Theory and Classifying Spaces</a> (~50m), presented at eCHT's <a href="https://s.wayne.edu/echt/echt-equivariant-homotopy-theory-reading-seminar-fall-2021/">equivariant homotopy theory reading seminar</a> (Fall 2021).</li>
+ 	<li><a href="/files/social-choice-slides.pdf">Social choice problems and algebraic topology</a> (~10m), presented at the UPenn graduate student open house (Spring 2024).</li>
+ 	<li><a href="/files/BIRS-talk-slides.pdf">The Stable Parametrized h-Cobordism Theorem: the K-theory part</a> (~30m), presented at the online seminar leading up to the <a id="m_8427137945270823812OWA2c927ab8-b74c-619f-316b-d3692042b7fb" href="https://www.birs.ca/events/2023/5-day-workshops/23w5017" target="_blank">Spaces of Manifolds: Algebraic and Geometric Approaches</a> <span class="il">BIRS</span> workshop (Fall 2023).</li>
+ 	<li><a href="/files/eCHT_bundles_slides.pdf">Equivariant Bundle Theory and Classifying Spaces</a> (~50m), presented at eCHT's <a href="https://s.wayne.edu/echt/echt-equivariant-homotopy-theory-reading-seminar-fall-2021/">equivariant homotopy theory reading seminar</a> (Fall 2021).</li>
  	<li><a href="https://web.sas.upenn.edu/callem/files/2021/08/Bousfield-Localization-talk.pdf">Bousfield Localization</a> (~50min), presented at UPenn's chromatic homotopy theory seminar (Summer 2021).</li>
- 	<li><a href="https://web.sas.upenn.edu/callem/files/2021/07/K-theory-slides.pdf">Topological K-theory</a> (~50min), presented at <a href="https://www2.math.upenn.edu/~mmerling/summerworkshop2021.html">Algebraic Topology Bridge Summer Workshop</a> (Summer 2021).</li>
+ 	<li><a href="/files/K-theory-slides.pdf">Topological K-theory</a> (~50min), presented at <a href="https://www2.math.upenn.edu/~mmerling/summerworkshop2021.html">Algebraic Topology Bridge Summer Workshop</a> (Summer 2021).</li>
 </ul>
+
+<div class="gallery">
+  <img src="/images/cat-sset.jpeg">
+  <img src="/images/cat-rlp.jpeg">
+  <img src="/images/cat-mapping-tele.jpeg">
+  <img src="/images/cat-disks.jpg">
+  <img src="/images/cat-loops.jpg">
+</div>
 
 <details>
 <summary><strong>See more misc. stuff</strong></summary>
 <ul>
 <li><a href="https://youtu.be/Tyj4tcykMSQ">Lens space: a CW story</a> video I made for Math 810: Video Production for Mathematics seminar (Fall 2021) at UPenn, taught by Prof. <a href="https://www2.math.upenn.edu/~ghrist/">Rob Ghrist</a>.</li>
-<li><a href="https://web.sas.upenn.edu/callem/files/2025/05/How_to_write_mathematics_badly__transcript_.pdf">How to write mathematics badly (transcript)</a>. A (somewhat incomplete) transcript of <a href="https://www.youtube.com/watch?v=ECQyFzzBHlo">this public lecture</a> given by Jean-Pierre Serre.</li>
+<li><a href="/files/how-to-write-math-badly-transcript.pdf">How to write mathematics badly (transcript)</a>. A (somewhat incomplete) transcript of <a href="https://www.youtube.com/watch?v=ECQyFzzBHlo">this public lecture</a> given by Jean-Pierre Serre.</li>
 <li>I have a running page of <a href="https://web.sas.upenn.edu/callem/topology-fun-and-games/">fun outreach activities related to geometry/topology</a>.</li>
 </ul>
 

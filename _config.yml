@@ -7,7 +7,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "maxine" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : #"Maxine Elena Calle"
+title                    : "Maxine Calle"
 title_separator          : "-"
 name                     : &name "Maxine Elena Calle"
 description              : &description "Maxine's academic website"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : "https://arxiv.org/search/math?query=Calle%2C+Maxine&searchtype=author&abstracts=show&order=-announced_date_first&size=50"
   googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL

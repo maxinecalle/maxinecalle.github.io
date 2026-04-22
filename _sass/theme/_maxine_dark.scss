@@ -2,7 +2,7 @@
     MAXINE'S THEME - DARK VERSION
     ========================================================================== */
 /* Color codes used for the theme */
-$primary-color              : #4682b4;
+$primary-color              : #6ca0dc;
 $accent-color               : mix(#000, #E0E0E0, 10%);
 $dark-primary-color         : mix(#000, $primary-color, 40%);
 $darker-primary-color       : mix(#000, $primary-color, 60%);
@@ -11,13 +11,13 @@ $lighter-primary-color      : mix(#fff, $primary-color, 90%);
 $background                 : #0f0b0c;
 $background-light           : mix(#fff, $background, 20%);
 $background-lighter        : mix(#fff, $background, 40%);
-$text                      : #E0E0E0;
+$text                      : #e6e6e6;
 $text-muted                : mix(#fff, $text, 10%);
 $link                      : mix(#fff, $primary-color, 10%);
-$link-hover                : mix(#000, #CA3C08, 40%);
+$link-hover                : #ea9629;
 $link-visited              : mix(#fff, $primary-color, 30%);
-$footer                    : #0f0b0c;
-$border                    : $primary-color;
+$footer                    : #1c1a23;
+$border                    : mix($text, $footer, 40%);
 $border-dark               : mix(#000, $border, 20%);
 $code-bg                   : #0d0806;
 $code-bg-dark              : #0f0907;
@@ -55,7 +55,7 @@ html[data-theme="dark"] {
     --global-link-color-hover           : #{$link-hover};
     --global-link-color-visited         : #{$link-visited};
     --global-masthead-link-color        : #{$text};
-    --global-masthead-link-color-hover  : #{$link-hover};
+    --global-masthead-link-color-hover  : #{$text};
     --global-text-color                 : #{$text};
     --global-text-color-light           : #{$text-muted};
     --global-thead-color                : #{$background-lighter};

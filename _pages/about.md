@@ -11,23 +11,21 @@ Hello! I'm a sixth year mathematics Ph.D. student and NSF graduate fellow at the
 
 My research focuses on algebraic topology, homotopy theory, and category theory, and I also have an interest in mathematical visualization and communication. I believe that math can be accessible and enjoyable for everyone.
 
-Here is my [CV](https://web.sas.upenn.edu/callem/files/2026/04/CalleCV.pdf).
+Here is my [CV](/files/CalleCV.pdf).
 
 <h2 style="color:var(--global-accent-color);">About</h2>
 - My name is pronounced "mack-SEEN eh-LEH-na CAH-zhay." I grew up in San Diego, CA, and I attended the [Waldorf School of San Diego](https://waldorfsandiego.org/). My high school education inspired me to do a lot of [art, music, and performance](http://maxinecalle.weebly.com/).
 - I got a B.A. in math in 2020 from [Reed College](http://reed.edu) in Portland, OR. I worked closely with [Kyle Ormsby](https://people.reed.edu/~ormsbyk/) and [Angélica Osorno](https://people.reed.edu/~aosorno/) in the Math department and [Paul Hovda](https://www.reed.edu/philosophy/hovda/) in the Philosophy department. I was featured on [What is a Reedie?](https://www.reed.edu/reed-magazine/articles/2020/what-is-a-reedie-2020.html) where I talk a bit about myself, my [undergraduate thesis](https://web.sas.upenn.edu/callem/files/2020/07/CalleReedThesis.pdf), and my Reed College experience.
-- My REU experience with [Corey Dunn](https://sites.google.com/csusb.edu/coreydunn/home) convinced me to pursue math graduate school. I started my Ph.D. at the University of Pennsylvania in the Fall of 2020. I passed my oral exam in Spring 2022 (here's my [master's thesis](https://bpb-us-w2.wpmucdn.com/web.sas.upenn.edu/dist/0/713/files/2022/06/minor_masters_thesis-finaldraft.pdf)).
+- My REU experience with [Corey Dunn](https://sites.google.com/csusb.edu/coreydunn/home) convinced me to pursue math graduate school. I got my Ph.D. from the [University of Pennsylvania](https://www.math.upenn.edu/) in Spring 2026, advised by [Mona Merling](https://www2.math.upenn.edu/~mmerling/index.html).
 - In Summer 2023, I was an [AAAS-AMS Mass Media Fellow](https://www.aaas.org/programs/mass-media-fellowship) at [The Conversation US](https://theconversation.com/us). Learn more about what I worked on [here](https://www.aaas.org/programs/mass-media-fellowship/maxine-elena-calle) or check out [my article for AMS Notices](https://www.ams.org/journals/notices/202402/noti2872/noti2872.html?adat=February%202024&amp;trk=2872&amp;galt=none&amp;cat=interest&amp;pdfissue=202402&amp;pdffile=rnoti-p274.pdf).
-- I got my Ph.D. from the [University of Pennsylvania](https://www.math.upenn.edu/) in 2026, advised by [Mona Merling](https://www2.math.upenn.edu/~mmerling/index.html).
-
 
 <h2 style="color:var(--global-accent-color);">Upcoming travel and conferences</h2>
-- May 2026: Texas State University topology seminar; San Marcos, TX.
-- May 2026: Midwest topology seminar; MSU, MI.
+- May 2026: Texas State University topology seminar; San Marcos, TX
+- May 2026: [Midwest topology seminar](https://sites.google.com/view/mts-spring2026/home); Michigan State University, MI
 - May 2026: Reed College; Portland, OR
-- June 2026: Purdue; West Lafayette, IN
+- June 2026: Purdue University; West Lafayette, IN
 - June 2026: [Talbot workshop](https://sites.google.com/view/talbotworkshop/current-talbot); Rangeley, ME
-- July 2026: [Algebraic structures in topology](https://algtoppr.github.io/); San Juan, PR.
+- July 2026: [Algebraic structures in topology](https://algtoppr.github.io/); San Juan, PR
 
 <details>
   <summary><strong>See past travel and conferences</strong></summary>
