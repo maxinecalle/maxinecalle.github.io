@@ -158,9 +158,9 @@ Vol. 45, 2026, No. 15, p. 501-536 (2026). Also available on <a href="https://arx
 
 <h2 style="color:var(--global-accent-color);">Theses</h2>
 
-- Algebraic <em>K</em>-theory of orbispaces. Ph.D. thesis (2026) supervised by Prof. Mona Merling. Here's an explanation of my thesis <a href="/files/thesis-intro-general">for a general audience</a> and <a href="/files/thesis-intro-math">for mathematicians</a>, and here are the <a href="/files/thesis-slides.pdf">slides</a> from my defense (~30min).
+- Algebraic <em>K</em>-theory of orbispaces. Ph.D. thesis (2026) supervised by Prof. Mona Merling. Here's an explanation of my thesis <a href="/files/thesis-intros-general">for a general audience</a> and <a href="/files/thesis-intros-math">for mathematicians</a>, and here are the <a href="/files/thesis-slides.pdf">slides</a> from my defense (~30min).
 - <a href="/files/minor_masters_thesis-finaldraft.pdf">An Introduction to Symplectic Geometry for Lagrangian Floer Homology</a>. Expository master's thesis (2022) written as part of my Ph.D. qualifying exam, supervised by Prof. <a href="https://www2.math.upenn.edu/~blockj/">Jonathan Block</a>.
-- <a href="https://web.sas.upenn.edu/callem/files/2020/07/CalleReedThesis.pdf">Morse Theory and Flow Categories</a>. Reed College undergraduate thesis (2020), advised by Prof. <a href="https://people.reed.edu/~ormsbyk/" target="_blank" rel="noopener noreferrer">Kyle Ormsby</a>. <em>Disclaimer: </em>there are some errors in the later sections. Here's a <a href="https://machineappreciation.wordpress.com/2022/02/01/a-morse-homotopy-theory-problem/">blog post</a> about what went wrong.
+- <a href="/files/CalleReedThesis.pdf">Morse Theory and Flow Categories</a>. Reed College undergraduate thesis (2020), advised by Prof. <a href="https://people.reed.edu/~ormsbyk/" target="_blank" rel="noopener noreferrer">Kyle Ormsby</a>. <em>Disclaimer: </em>there are some errors in the later sections. Here's a <a href="https://machineappreciation.wordpress.com/2022/02/01/a-morse-homotopy-theory-problem/">blog post</a> about what went wrong.
 
 <h2 style="color:var(--global-accent-color);">Expository writing and slides</h2>
 

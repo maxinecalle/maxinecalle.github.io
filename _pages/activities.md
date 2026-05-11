@@ -39,7 +39,7 @@ I'm trying not to do too much right now. Some albums I'm enjoying currently are 
 </ul>
 </details>
 </li>
- 	<li>I wrote sometimes on <a href="https://machineappreciation.wordpress.com">a blog</a> with <a href="https://tbrazel.github.io/" target="_blank">Thomas Brazelton</a>, <a href="https://sites.google.com/view/andresmejia" target="_blank">Andres Mejia</a>, and Julian Gould.</li>
+ 	<li>I wrote sometimes on <a href="https://machineappreciation.wordpress.com">a blog</a> with <a href="https://tbrazel.github.io/" target="_blank">Thomas Brazelton</a>, <a href="https://sites.google.com/view/andresmejia" target="_blank">Andres Mejia</a>, and Julian Gould. I also kept a running list of <a href"https://web.sas.upenn.edu/callem/topology-fun-and-games/">ideas for outreach activities</a> related to geometry/topology.</li>
 </ul>
 
 <h2 style="color:var(--global-accent-color);">As a Mass Media Fellow</h2>

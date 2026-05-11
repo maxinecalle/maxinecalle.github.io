@@ -20,8 +20,6 @@ Here is my [CV](/files/CalleCV.pdf).
 - In Summer 2023, I was an [AAAS-AMS Mass Media Fellow](https://www.aaas.org/programs/mass-media-fellowship) at [The Conversation US](https://theconversation.com/us). Learn more about what I worked on [here](https://www.aaas.org/programs/mass-media-fellowship/maxine-elena-calle) or check out [my article for AMS Notices](https://www.ams.org/journals/notices/202402/noti2872/noti2872.html?adat=February%202024&amp;trk=2872&amp;galt=none&amp;cat=interest&amp;pdfissue=202402&amp;pdffile=rnoti-p274.pdf).
 
 <h2 style="color:var(--global-accent-color);">Upcoming travel and conferences</h2>
-- May 2026: Texas State University topology seminar; San Marcos, TX
-- May 2026: [Midwest topology seminar](https://sites.google.com/view/mts-spring2026/home); Michigan State University, MI
 - May 2026: Reed College; Portland, OR
 - June 2026: Purdue University; West Lafayette, IN
 - June 2026: [Talbot workshop](https://sites.google.com/view/talbotworkshop/current-talbot); Rangeley, ME
@@ -31,6 +29,8 @@ Here is my [CV](/files/CalleCV.pdf).
   <summary><strong>See past travel and conferences</strong></summary>
 
  <ul>
+<li>May 2026: <a href="https://sites.google.com/view/mts-spring2026/home">Midwest topology seminar</a>; Michigan State University, MI.</li>
+<li>May 2026: Texas State University topology seminar; San Marcos, TX.</li>
 <li>April 2026: <a href="https://rileyshahar.com/amtrak">AMTRaK</a>; Philadelphia, PA.</li>
 <li>March 2026: <a href="https://web.math.princeton.edu/~petero/Browder/Browder.html">Panorama of Topology</a> conference; Princeton, NJ.</li>
 <li>March 2026: NMSU <a href="https://sites.google.com/view/nmsu-gt-seminar/home">geometry &amp; topology seminar</a>; Las Cruces, NM.</li>

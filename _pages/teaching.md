@@ -13,9 +13,8 @@ redirect_from:
   </p>
   <img src="/images/teapot2donut-transparent.gif" class="responsive-img">
 </div>
-This semester, I'm a TA for <a href="https://canvas.upenn.edu/courses/1912713">Math 3700: Algebra</a> at UPenn.
 
-<h2 style="color:var(--global-accent-color);">Teaching Elsewhere</h2>
+<h2 style="color:var(--global-accent-color);">Previous Teaching</h2>
 
 <h3>University of Pennsylvania</h3>
 
