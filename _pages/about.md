@@ -25,10 +25,10 @@ Here is my [CV](/files/CalleCV.pdf).
 <details>
 - May 2027: [Homotopical combinatorics](https://www.birs.ca/events/2027/5-day-workshops/27w5760) CMO workshop; Oaxaca, Mexico
 - May-June 2027: [Scissors congruence K-theory and manifolds](https://www.birs.ca/events/2027/5-day-workshops/27w5728) BIRS Workshop; Banff, Alberta (Canada)
-  <summary><strong>See past travel and conferences</strong></summary>
 
+  <summary><strong>See past travel and conferences</strong></summary>
  <ul>
-<li>June 2026: [Talbot workshop](https://sites.google.com/view/talbotworkshop/home); Rangeley, ME.</li>
+<li>June 2026: <a href="https://sites.google.com/view/talbotworkshop/home">Talbot workshop</a>; Rangeley, ME.</li>
 <li>June 2026: Purdue University; West Lafayette, IN.</li>
 <li>May 2026: Reed College; Portland, OR.</li>
 <li>May 2026: <a href="https://sites.google.com/view/mts-spring2026/home">Midwest topology seminar</a>; Michigan State University, MI.</li>
