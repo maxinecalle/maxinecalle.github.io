@@ -22,10 +22,10 @@ Here is my [CV](/files/CalleCV.pdf).
 <h2 style="color:var(--global-accent-color);">Upcoming travel and conferences</h2>
 - July 2026: [Algebraic structures in topology](https://algtoppr.github.io/); San Juan, PR
 - February 2027: [Equivariant homotopy and algebraic K-theory](https://www.birs.ca/events/2027/5-day-workshops/27w5768) BIRS Workshop; Banff, Alberta (Canada)
-<details>
 - May 2027: [Homotopical combinatorics](https://www.birs.ca/events/2027/5-day-workshops/27w5760) CMO workshop; Oaxaca, Mexico
 - May-June 2027: [Scissors congruence K-theory and manifolds](https://www.birs.ca/events/2027/5-day-workshops/27w5728) BIRS Workshop; Banff, Alberta (Canada)
 
+<details>
   <summary><strong>See past travel and conferences</strong></summary>
  <ul>
 <li>June 2026: <a href="https://sites.google.com/view/talbotworkshop/home">Talbot workshop</a>; Rangeley, ME.</li>
