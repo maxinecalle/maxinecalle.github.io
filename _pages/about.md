@@ -20,7 +20,6 @@ Here is my [CV](/files/CalleCV.pdf).
 - In Summer 2023, I was an [AAAS-AMS Mass Media Fellow](https://www.aaas.org/programs/mass-media-fellowship) at [The Conversation US](https://theconversation.com/us). Learn more about what I worked on [here](https://www.aaas.org/programs/mass-media-fellowship/maxine-elena-calle) or check out [my article for AMS Notices](https://www.ams.org/journals/notices/202402/noti2872/noti2872.html?adat=February%202024&amp;trk=2872&amp;galt=none&amp;cat=interest&amp;pdfissue=202402&amp;pdffile=rnoti-p274.pdf).
 
 <h2 style="color:var(--global-accent-color);">Upcoming travel and conferences</h2>
-- July 2026: [Algebraic structures in topology](https://algtoppr.github.io/); San Juan, PR
 - February 2027: [Equivariant homotopy and algebraic K-theory](https://www.birs.ca/events/2027/5-day-workshops/27w5768) BIRS Workshop; Banff, Alberta (Canada)
 - May 2027: [Homotopical combinatorics](https://www.birs.ca/events/2027/5-day-workshops/27w5760) CMO workshop; Oaxaca, Mexico
 - May-June 2027: [Scissors congruence K-theory and manifolds](https://www.birs.ca/events/2027/5-day-workshops/27w5728) BIRS Workshop; Banff, Alberta (Canada)
@@ -28,30 +27,31 @@ Here is my [CV](/files/CalleCV.pdf).
 <details>
   <summary><strong>See past travel and conferences</strong></summary>
  <ul>
-<li>June 2026: <a href="https://sites.google.com/view/talbotworkshop/home">Talbot workshop</a>; Rangeley, ME.</li>
+<li>July 2026: <a href="https://algtoppr.github.io/" target="_blank"> Algebraic structures in topology</a>; San Juan, PR.</li>
+<li>June 2026: <a href="https://sites.google.com/view/talbotworkshop/home" target="_blank">Talbot workshop</a>; Rangeley, ME.</li>
 <li>June 2026: Purdue University; West Lafayette, IN.</li>
 <li>May 2026: Reed College; Portland, OR.</li>
-<li>May 2026: <a href="https://sites.google.com/view/mts-spring2026/home">Midwest topology seminar</a>; Michigan State University, MI.</li>
+<li>May 2026: <a href="https://sites.google.com/view/mts-spring2026/home" target="_blank">Midwest topology seminar</a>; Michigan State University, MI.</li>
 <li>May 2026: Texas State University topology seminar; San Marcos, TX.</li>
-<li>April 2026: <a href="https://rileyshahar.com/amtrak">AMTRaK</a>; Philadelphia, PA.</li>
-<li>March 2026: <a href="https://web.math.princeton.edu/~petero/Browder/Browder.html">Panorama of Topology</a> conference; Princeton, NJ.</li>
-<li>March 2026: NMSU <a href="https://sites.google.com/view/nmsu-gt-seminar/home">geometry &amp; topology seminar</a>; Las Cruces, NM.</li>
-<li>February 2026: <a href="https://sites.google.com/case.edu/mts-winter2026/home">Midwest topology seminar</a>; Cleveland, Ohio.</li>
+<li>April 2026: <a href="https://rileyshahar.com/amtrak" target="_blank">AMTRaK</a>; Philadelphia, PA.</li>
+<li>March 2026: <a href="https://web.math.princeton.edu/~petero/Browder/Browder.html" target="_blank">Panorama of Topology</a> conference; Princeton, NJ.</li>
+<li>March 2026: NMSU <a href="https://sites.google.com/view/nmsu-gt-seminar/home" target="_blank">geometry &amp; topology seminar</a>; Las Cruces, NM.</li>
+<li>February 2026: <a href="https://sites.google.com/case.edu/mts-winter2026/home" target="_blank">Midwest topology seminar</a>; Cleveland, Ohio.</li>
 <li>February 2026: University of Copenhagen Algebra and Topology seminar; online.</li>
-<li>January 2026: TQFT club seminar; <a href="https://tqft.math.tecnico.ulisboa.pt/seminars">online</a>.</li>
+<li>January 2026: TQFT club seminar; <a href="https://tqft.math.tecnico.ulisboa.pt/seminars" target="_blank">online</a>.</li>
 <li>December 2025: IU Bloomington topology seminar; Bloomington, IN.</li>
 <li>November 2025: Universität Bonn topology seminar; Bonn (Germany).</li>
 <li>November 2025: Brown University topology seminar; Providence, RI.</li>
-<li>October 2025: PIMS CRG "Diagrams in Homotopy Theory" seminar; <a href="https://pims.math.ca/programs/scientific/collaborative-research-groups/diagram-categories-homotopy-theory">online</a>.</li>
+<li>October 2025: PIMS CRG "Diagrams in Homotopy Theory" seminar; <a href="https://pims.math.ca/programs/scientific/collaborative-research-groups/diagram-categories-homotopy-theory" target="_blank">online</a>.</li>
 <li>October 2025: IgorFest: Equivariant, Motivic, and Physical Topology in the Midwest; Minneapolis, MN.</li>
 <li>October 2025: AMS Fall Central Sectional Meeting; St. Louis, MO.</li>
-<li>September 2025: <a href="https://www.birs.ca/events/2025/5-day-workshops/25w5402">Equivariant Topological Quantum Field Theory</a> CMO workshop; Oaxaca, Mexico.</li>
+<li>September 2025: <a href="https://www.birs.ca/events/2025/5-day-workshops/25w5402" target="_blank">Equivariant Topological Quantum Field Theory</a> CMO workshop; Oaxaca, Mexico.</li>
 <li>August 2025: AIM SQuaReS program with <a href="https://sites.google.com/view/julie-bergner/">Julie Bergner</a>, <a href="https://sites.google.com/view/davidchanmath">David Chan</a>, <a href="https://people.reed.edu/~aosorno/">Angélica Osorno</a>, and <a href="https://sites.google.com/view/msarazola/home">Maru Sarazola</a>; AIM (at Caltech), CA.</li>
 <li>July 2025: Mathematical Congress of the Americas; Miami, FL.</li>
-<li>July 2025: <a href="https://sites.google.com/view/scissorscongruenceandk-theory/home">Scissors Congruence and K-theory Conference</a>; Philadelphia, PA.</li>
+<li>July 2025: <a href="https://sites.google.com/view/scissorscongruenceandk-theory/home" target="_blank">Scissors Congruence and K-theory Conference</a>; Philadelphia, PA.</li>
 <li>May 2025: <a href="https://sites.google.com/view/talbotworkshop/current-talbot">Talbot 2025</a>; Cassopolis, MI.</li>
-<li>May 2025: <a href="https://hiroleetanaka.com/workshop-2025/index.php">Moduli spaces of pseudo-holomorphic curves</a> workshop; Catskill foothills, NY.</li>
-<li>April 2025: <a href="https://www.newton.ac.uk/event/eht/">Equivariant homotopy theory in context</a> semester program; Isaac Newton Institute for Mathematical Sciences, Cambridge (UK).</li>
+<li>May 2025: <a href="https://hiroleetanaka.com/workshop-2025/index.php" target="_blank">Moduli spaces of pseudo-holomorphic curves</a> workshop; Catskill foothills, NY.</li>
+<li>April 2025: <a href="https://www.newton.ac.uk/event/eht/" target="_blank">Equivariant homotopy theory in context</a> semester program; Isaac Newton Institute for Mathematical Sciences, Cambridge (UK).</li>
 <li>April 2025: <a href="https://web.sas.upenn.edu/callem/amtrak/">AMTRaK</a>; Philadelphia, PA.</li>
 <li>March 2025: AIM SQuaREs program with  <a href="https://reneehoekzema.nl/">Renee S. Hoekzema</a>, <a href="https://sites.google.com/view/lauramurray/home">Laura Murray</a>, <a href="https://webpages.math.luc.edu/~crovi/">Carmen Rovi</a>, and Shruthi Sridhar-Shapiro; AIM (at Caltech), CA.</li>
 <li>February 2025: AIM SQuaREs program with <a href="https://tbrazel.github.io/">Thomas Brazelton</a>, <a href="https://sites.google.com/view/davidchanmath">David Chan</a>, <a href="https://sites.google.com/view/liam-keenan/home">Liam Keenan</a>, and <a href="https://www.maximilienperoux.com/">Maximilien Péroux</a>; AIM (at Caltech), CA.</li>
@@ -78,7 +78,7 @@ Here is my [CV](/files/CalleCV.pdf).
 <li>January 2024: <a href="https://www.birs.ca/events/2024/5-day-workshops/24w5266">Higher Segal spaces and their applications to algebraic K-theory, Hall algebras, and combinatorics</a> BIRS Workshop; Banff, Alberta (Canada).</li>
 <li>January 2024: JMM; San Francisco, CA.</li>
 <li>December 2023: Math PATCH Seminar; University of Pennsylvania, PA.</li>
-<li>November-December 2023: <a href="https://archytas2.birs.ca/events/2023/5-day-workshops/23w5017">Spaces of Manifolds: Algebraic and Geometric Approaches</a> BIRS Workshop; Banff, Alberta (Canada).</li>
+<li>November-December 2023: <a href="https://archytas2.birs.ca/events/2023/5-day-workshops/23w5017" target="_blank">Spaces of Manifolds: Algebraic and Geometric Approaches</a> BIRS Workshop; Banff, Alberta (Canada).</li>
 <li>November 2023: Loyola University TACO seminar; Chicago, IL.</li>
 <li>November 2023: Michigan State University RTG seminar; MSU, MI.</li>
 <li>September 2023: Binghamton University Geometry and Topology seminar; SUNY Binghamton, NY.</li>
