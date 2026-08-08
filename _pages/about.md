@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm a sixth year mathematics Ph.D. student and NSF graduate fellow at the [University of Pennsylvania](https://www.math.upenn.edu/), advised by [Mona Merling](https://www2.math.upenn.edu/~mmerling/index.html). Next year, I will be an HCM postdoc at the [University of Bonn](https://www.math.uni-bonn.de/ag/topo/) as part of the topology group, mentored by [Stefan Schwede](https://www.math.uni-bonn.de/people/schwede/). Starting in Fall 2027, I will be a Tamarkin Assistant Professor and NSF postdoctoral fellow at [Brown University](https://mathematics.brown.edu/), mentored by [Tom Goodwillie](https://sites.brown.edu/tgoodwillie/tom-goodwillie/).
+Hello! I'm an HCM postdoc at the [University of Bonn](https://www.math.uni-bonn.de/ag/topo/) as part of the topology group, mentored by [Stefan Schwede](https://www.math.uni-bonn.de/people/schwede/). Starting in Fall 2027, I will be a Tamarkin Assistant Professor and NSF postdoctoral fellow at [Brown University](https://mathematics.brown.edu/), mentored by [Tom Goodwillie](https://sites.brown.edu/tgoodwillie/tom-goodwillie/).
 
 My research focuses on algebraic topology, homotopy theory, and category theory, and I also have an interest in mathematical visualization and communication. I believe that math can be accessible and enjoyable for everyone.
 
