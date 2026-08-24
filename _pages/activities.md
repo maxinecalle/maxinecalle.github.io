@@ -6,7 +6,7 @@ redirect_from:
   - "/activities.html"
 ---
 
-I'm trying not to do too much right now. Some albums I'm enjoying currently are Leak 04-13 (Bait Ones) by Jai Paul and Patience, Moonbeam by Great Grandpa.
+I'm trying not to do too much right now!
 
 <h2 style="color:var(--global-accent-color);">In graduate school</h2>
 

@@ -39,6 +39,8 @@ $navicon-height             : 4px;
 $sidebar-link-max-width     : 250px;
 $sidebar-screen-min-width   : 1024px;
 
+$banner-image-path          : "/images/banner-dark.jpg";
+
 /* Maxine dark theme CSS variables */
 html[data-theme="dark"] {
     --global-base-color                 : #{$primary-color};
@@ -59,4 +61,5 @@ html[data-theme="dark"] {
     --global-text-color                 : #{$text};
     --global-text-color-light           : #{$text-muted};
     --global-thead-color                : #{$background-lighter};
+    --global-banner-image               : #{"url('" + $banner-image-path + "')"};
 }
