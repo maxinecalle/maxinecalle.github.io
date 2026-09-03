@@ -14,6 +14,8 @@ redirect_from:
   <img src="/images/teapot2donut-transparent.gif" class="responsive-img">
 </div>
 
+I am not teaching during the 2026-2027 academic year.
+
 <h2 style="color:var(--global-accent-color);">Previous Teaching</h2>
 
 <h3>University of Pennsylvania</h3>

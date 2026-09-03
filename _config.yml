@@ -24,19 +24,19 @@ author:
   avatar           : "profile.jpg"
   name             : "Maxine Elena Calle"
   pronouns         : "Mathematics Ph.D."
-  bio              : 'Email: callem "at" sas "dot" upenn "dot" edu'
-  location         : "TBD"
+  bio              : 'Email: callem "at" math "dot" uni "dash" bonn "dot" de'
+  location         : "Mathematical Institute 2.003"
   employer         : "University of Bonn"
-  uri              : # url
+  uri              : # url 
   email            : # "none@example.org" 
 
   # Academic websites
   academia         : # URL
   arxiv            : "https://arxiv.org/search/math?query=Calle%2C+Maxine&searchtype=author&abstracts=show&order=-announced_date_first&size=50"
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=U588BYwAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : #"https://orcid.org/yourorcidurl"
+  orcid            : # "https://orcid.org/0000-0001-9007-4385"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
