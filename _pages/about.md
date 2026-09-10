@@ -28,6 +28,7 @@ Here is my [CV](/files/CalleCV.pdf).
 - February 2027: [Equivariant homotopy and algebraic K-theory](https://www.birs.ca/events/2027/5-day-workshops/27w5768) BIRS Workshop; Banff, Alberta (Canada).
 - May 2027: [Homotopical combinatorics](https://www.birs.ca/events/2027/5-day-workshops/27w5760) CMO workshop; Oaxaca, Mexico.
 - May-June 2027: [Scissors congruence K-theory and manifolds](https://www.birs.ca/events/2027/5-day-workshops/27w5728) BIRS Workshop; Banff, Alberta (Canada).
+- June 2027: Oberwolfach research fellows (OWRF) program with [Kenneth Blakey](https://kenneth-blakey.com/) and [Liam Keenan](https://sites.google.com/view/liam-keenan/home); Oberwolfach Research Institute for Mathematics, Germany.
 - June 2027: [Triangulated and Stable Infinity Categories in Topology and Algebra](https://sites.google.com/view/triangulated-stable-london); Imperial College London, UK.
 
 <details>
