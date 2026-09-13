@@ -20,29 +20,32 @@ I am not teaching during the 2026-2027 academic year.
 
 <h3>University of Pennsylvania</h3>
 
-In Summer 2025, I taught <a href="https://canvas.upenn.edu/courses/1849729">Math 3120: Linear Algebra</a>. I was a grader/TA for the following courses:
-<ul>
- 	<li><em>Math 3700: Algebra</em>, taught by Prof. <a href="https://www.angelagibney.org/">Angela Gibney</a> (Spring 2026)</li>
- 	<li><em>Math 6180: Algebraic Topology, </em>taught by Prof. <a href="https://www.sas.upenn.edu/~ngadish/">Nir Gadish</a> (Fall 2025)</li>
- 	<li><em>MATH 2600: Honors Calculus II</em>, taught by Prof. <a href="https://www.math.upenn.edu/people/herman-gluck">Herman Gluck</a> (Spring 2023)</li>
- 	<li><a href="https://web.sas.upenn.edu/callem/math-3700-fall-2022/"><em>MATH 3700: Algebra</em></a>, taught by Prof. <a href="https://sites.google.com/view/murmuno/">Sveta Makarova</a> (Fall 2022)</li>
-</ul>
+ <style>
+td:first-child {
+    width: 90px;
+}
+td:nth-child(2) {
+    width: 80px;
+}
+</style>
 
-I also helped coordinate teacher trainings for the math department between 2023-2026 and was a teaching fellow at the [Center for Excellence in Teaching, Learning, and Innovation](https://cetli.upenn.edu/) in 2023-2024.
+| Spring 2026 | MATH 3700 | <a href="https://canvas.upenn.edu/courses/1912713">Algebra</a>            | Teaching assistant (for Prof. <a href="https://www.angelagibney.org/">Angela Gibney</a>)                                                                                                                                          
+| Fall 2025   | MATH 6180 | <a href="https://canvas.upenn.edu/courses/1880020">Algebraic Topology</a> | Grader (for Prof. <a href="https://www.sas.upenn.edu/~ngadish/">Nir Gadish</a>)
+| Summer 2025 | MATH 3120 | <a href="https://canvas.upenn.edu/courses/1849729">Linear Algebra</a>  | Instructor                                                                                                                                    
+| Spring 2023 | MATH 2600 | <a href="https://canvas.upenn.edu/courses/1705164">Honors Calculus II</a> | Teaching assistant (for Prof. <a href="https://www.math.upenn.edu/people/herman-gluck">Herman Gluck</a>)
+| Fall 2022   | MATH 3700 | <a href="https://web.sas.upenn.edu/callem/math-3700-fall-2022/">Algebra</a> | Teaching assistant (for Prof. <a href="https://sites.google.com/view/murmuno/">Sveta Makarova</a>)
 
 <h3>Prison teaching</h3>
 
-I've volunteered with different prison teaching programs, especially Princeton's <a href="https://prisonteaching.org">Prison Teaching Initiative</a> (PTI), to offer college-accredited courses to incarcerated people. I was part of a teaching team for the following courses:
-<ul>
-	<li><em>Math in the Courtroom</em> workshop at State Correctional Institute, Chester (Spring 2026)</li>
-	<li><em>MATH-015: Beginning Mathematics</em> at the South Woods State Prison (Fall 2024)</li>
- 	<li><em>MATH-015: Beginning Mathematics</em> at the South Woods State Prison (Spring 2022)</li>
- 	<li><em>MATH-015: Beginning Mathematics</em> at the Garden State Youth Correctional Facility (Fall 2021)</li>
-</ul>
+| Spring 2026 |  | Math in the Courtroom workshop | State Correctional Institute, Chester | Co-instructor
+| Fall 2024 | MATH 015 | Beginning Mathematics | South Woods State Prison | Co-instructor (PTI)
+| Spring 2022 | MATH 015 | Beginning Mathematics | South Woods State Prison | Co-instructor (PTI)
+| Fall 2021 | MATH 015 | Beginning Mathematics | Garden State Youth Correctional Facility | Co-instructor (PTI)
 
-I also tutored (math) at South Woods State Prison for a few semesters between 2022-2026. I was a graduate fellow for PTI in 2024-2025.
+The courses labeled (PTI) were taught with the <a href="https://prisonteaching.org">Prison Teaching Initiative</a>, which is a volunteer program run by Princeton University that offers college-accredited courses to incarcerated people in New Jersey. 
+I also tutored (math) at South Woods State Prison through PTI, for a few semesters between 2022-2026.
 
 
 <h3>Reed College</h3>
 
-I was the course assistant for Math 202: Vector Calculus (taught by Prof. <a href="http://people.reed.edu/~jerry/" target="_blank" rel="noopener noreferrer">Jerry Shurman</a>) and I tutored for a variety of math and philosophy classes through the <a href="https://www.reed.edu/academic_support/tutoring.html" target="_blank" rel="noopener noreferrer">Office of Academic Support</a>.
+I was the course assistant for Math 202: Vector Calculus (taught by Prof. <a href="http://people.reed.edu/~jerry/" target="_blank" rel="noopener noreferrer">Jerry Shurman</a>) for several semesters, and I tutored for a variety of math and philosophy classes through the <a href="https://www.reed.edu/academic_support/tutoring.html" target="_blank" rel="noopener noreferrer">Office of Academic Support</a>.
