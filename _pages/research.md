@@ -1,7 +1,7 @@
 ---
 permalink: /research/
 title: "Research"
-author_profile: true
+author_profile: false
 redirect_from: 
   - "/research.html"
 ---
@@ -68,7 +68,9 @@ I like the way Fields medalist [Maryam Mirzakhani described mathematical researc
 - <a href="https://doi.org/10.1093/imrn/rnaf388">The spectrum of the Burnside Tambara functor</a> (with <a href="https://sites.google.com/view/davidchanmath">David Chan</a>, <a href="https://www.davidmehrle.com/">David Mehrle</a>, <a href="https://quigleyjd.github.io/">J.D. Quigley</a>, <a href="https://benspitz.com/">Ben Spitz</a>, and <a href="https://www.danikavanniel.com/">Danika Van Niel</a>). <em>International Mathematics Research Notices</em>, Vol. 2026, Iss. 2, paper no. rnaf388 (2026). Also available on <a href="https://arxiv.org/abs/2506.10727">arXiv</a>.
 	<details>
   	<summary>Summary</summary><div class="dropdown-box">
-	We compute all the prime ideals of the Burnside Tambara functor on a finite group. Our work leverages a <a href="https://arxiv.org/abs/2410.23052">"lying over theorem" for Tambara functors</a> to show that the prime ideals that <a href="https://arxiv.org/abs/2011.04729">Sam and I identified</a> are all the possible prime ideals.
+	<p>We compute all the prime ideals of the Burnside Tambara functor on a finite group. Our work leverages a <a href="https://arxiv.org/abs/2410.23052">"lying over theorem" for Tambara functors</a> to show that the prime ideals that <a href="https://arxiv.org/abs/2011.04729">Sam and I identified</a> are all the possible prime ideals.</p>
+
+	<p>Check out <a href="/files/eCHT-ghost-slides.pdf">slides</a> for a talk (~40m) which I presented at the <a href="https://echtorc.github.io/">eCHT research seminar</a> (2026).</p>
 	</div></details>
 - <a href="https://msp.org/akt/2026/11-2/p03.xhtml">Squares <em>K</em>-theory and 2-Segal spaces</a> (with <a href="https://sites.google.com/view/msarazola/home">Maru Sarazola</a>). <em>Annals of K-Theory</em>, Vol. 11, No. 2, p. 261-308 (2026). Also available on <a href="https://arxiv.org/abs/2409.16428">arXiv</a>.
 	<details>

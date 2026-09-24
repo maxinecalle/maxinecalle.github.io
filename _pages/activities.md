@@ -1,7 +1,7 @@
 ---
 permalink: /activities/
 title: "Activities"
-author_profile: true
+author_profile: false
 redirect_from: 
   - "/activities.html"
 ---
