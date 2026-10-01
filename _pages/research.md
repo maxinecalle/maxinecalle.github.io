@@ -4,13 +4,17 @@ title: "Research"
 author_profile: false
 redirect_from: 
   - "/research.html"
+layout: splash
 ---
 
+<h1>Research</h1>
+
 <div style="display: flex; align-items: flex-start; gap: 15px;">
-  <p style="flex: 1;"> I study algebraic topology, particularly homotopy theory, category theory, and <em>K</em>-theory, and the applications of these theories to manifolds. My favorite kinds of problems involve understanding topological/geometric structure using the tools of homotopy theory. Click below to learn more details.
-  </p>
-  <img src="/images/kleinbottle-transparent.gif" class="responsive-img">
-</div>
+<div style="flex: 1;">
+    <p style="margin-bottom: 1em;">
+      I study algebraic topology, particularly homotopy theory, category theory, and <em>K</em>-theory, and the applications of these theories to manifolds. My favorite kinds of problems involve understanding topological/geometric structure using the tools of homotopy theory.
+    </p>
+<p>I like the way Fields medalist <a href="https://news.stanford.edu/2017/07/15/maryam-mirzakhani-stanford-mathematician-and-fields-medal-winner-dies">Maryam Mirzakhani described mathematical research</a>: it's like “being lost in a jungle and trying to use all the knowledge that you can gather to come up with some new tricks, and with some luck you might find a way out.”</p>
 
 <details class="custom-dropdown">
   <summary>Explanation for a general audience</summary>
@@ -35,11 +39,12 @@ redirect_from:
 	<p>Another thread of my research translates the principles of algebraic <em>K</em>-theory to produce invariants of manifolds based on how they decompose into smaller pieces. This work is situated within <a href="http://dx.doi.org/10.1090/bull/1527">scissors congruence <em>K</em>-theory</a><em>,</em> which is an emerging research program inspired by scissors congruence of polytopes and Hilbert's 3rd Problem. I am broadly interested in <a href="https://arxiv.org/pdf/2409.16428">studying these new <em>K</em>-theory constructions</a> from a categorical perspective and investigating how they can be applied to new kinds of objects, <a href="https://arxiv.org/abs/2402.14986">such as graphs</a>.</p>
   </div>
 </details>
+  </div>
+
+  <img src="/images/kleinbottle-transparent.gif" class="responsive-img">
+</div>
 
 <div style="height: 20px;"></div>
-
-
-I like the way Fields medalist [Maryam Mirzakhani described mathematical research](https://news.stanford.edu/2017/07/15/maryam-mirzakhani-stanford-mathematician-and-fields-medal-winner-dies): it's like “being lost in a jungle and trying to use all the knowledge that you can gather to come up with some new tricks, and with some luck you might find a way out.”
 
 <h2 style="color:var(--global-accent-color);">Publications and preprints</h2>
 
@@ -80,7 +85,7 @@ I like the way Fields medalist [Maryam Mirzakhani described mathematical researc
 - Equivariant algebraic <em>K</em>-theory of symmetric monoidal Mackey functors (with <a href="https://sites.google.com/view/davidchanmath">David Chan</a> and <a href="https://www.maximilienperoux.com/">Maximilien Péroux</a>). Available on <a href="https://arxiv.org/abs/2312.04705">arXiv</a>.
 	<details>
   	<summary>Summary</summary><div class="dropdown-box">
-	Segal's construction of <em>K</em>-theory gives us a way to turn symmetric monoidal categories into connective spectra. In the 1990s, Thomason showed that every connective spectrum arises in this way (up to weak equivalence). In this paper, we prove an equivariant version of Thomason's result, building off of <a href="https://msp.org/agt/2015/15-1/p18.xhtml">work of Bohmann–Osorno</a> on the <em>K</em>-theory of categorical Mackey functors.
+	This paper revisits <a href="https://msp.org/agt/2015/15-1/p18.xhtml">work of Bohmann–Osorno</a> on the <em>K</em>-theory of categorical Mackey functors. We show that every symmetric monoidal Mackey functor (in the sense of Hill–Hopkins) may be strictified to a categorical Mackey functor (in the sense of Bohmann–Osorno). Along the way, we resolve some technical issues in the original paper of Bohmann–Osorno and prove a version of the Guillou–May theorem for covariant (as opposed to contravariant) spectral Mackey functors. 
 	</div></details>
 - A linearization map for genuine equivariant algebraic <em>K</em>-theory (with <a href="https://sites.google.com/view/andresmejia">Andres Mejia</a> and <a href="https://sites.google.com/view/davidchanmath">David Chan</a>). To appear in <em>Algebraic &amp; Geometric Topology</em>. Also available on <a href="https://arxiv.org/abs/2309.08025">arXiv</a>.
 	<details>

@@ -4,17 +4,36 @@ title: "Teaching"
 author_profile: false
 redirect_from: 
   - "/teaching.html"
+layout: splash
 ---
 
-  > Being good at math is being good at being stuck...and thinking 'okay, what's the next step?' <span style="font-size: 16px;">—Courtney Gibbons, </span><a style="font-size: 16px;" href="https://www.youtube.com/watch?v=kenf8E1RuoA" target="_blank" rel="noopener">So, you think you're bad at math?</a>
+<h1>Teaching</h1>
 
 <div style="display: flex; align-items: flex-start; gap: 15px;">
-  <p style="flex: 1;"> I believe teaching is an integral part of being an academic and a mathematician. As an educator, I am committed to creating welcoming environments where all students, regardless of background or major, can engage meaningfully with mathematics.
+  <div style="flex: 1;">
+    <p style="margin-bottom: 1em;">
+<blockquote style="margin: 1em 0; padding-left: 15px; border-left: 3px solid #ccc; font-style: italic;">
+  <p>
+    Being good at math is being good at being stuck...and thinking 'okay, what's the next step?'
   </p>
+  <cite style="display: block; margin-top: 10px; font-style: normal; font-size: 16px;">
+    Courtney Gibbons, 
+    <a href="https://youtube.com" target="_blank" rel="noopener">
+      So, you think you're bad at math?
+    </a>
+  </cite>
+</blockquote>
+</p><p>
+      I believe teaching is an integral part of being an academic and a mathematician. As an educator, I am committed to creating welcoming environments where all students, regardless of background or major, can engage meaningfully with mathematics.
+    </p>
+    <p>
+      I am not teaching during the 2026-2027 academic year.
+    </p>
+  </div>
   <img src="/images/teapot2donut-transparent.gif" class="responsive-img">
 </div>
 
-I am not teaching during the 2026-2027 academic year.
+
 
 <h2 style="color:var(--global-accent-color);">Previous Teaching</h2>
 

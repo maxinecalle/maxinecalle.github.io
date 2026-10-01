@@ -4,7 +4,10 @@ title: "Activities"
 author_profile: false
 redirect_from: 
   - "/activities.html"
+layout: splash
 ---
+
+<h1>Activities</h1>
 
 I'm trying not to do too much right now!
 

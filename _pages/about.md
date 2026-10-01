@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+layout: home
 ---
 
 Hello! I'm an HCM postdoc at the [University of Bonn](https://www.math.uni-bonn.de/ag/topo/) as part of the topology group, mentored by [Stefan Schwede](https://www.math.uni-bonn.de/people/schwede/). Starting in Fall 2027, I will be a Tamarkin Assistant Professor and NSF postdoctoral fellow at [Brown University](https://mathematics.brown.edu/), mentored by [Tom Goodwillie](https://sites.brown.edu/tgoodwillie/tom-goodwillie/).
@@ -23,6 +24,7 @@ Here is my [CV](/files/CalleCV.pdf).
 - October 2026: AIM SQuaReS program with [Julie Bergner](https://sites.google.com/view/julie-bergner/), [David Chan](https://sites.google.com/view/davidchanmath), [Angélica Osorno](https://people.reed.edu/~aosorno/), and [Maru Sarazola](https://sites.google.com/view/msarazola/home); AIM (at Caltech), CA (although I will participate remotely).
 - October 2026: [Rencontre 2026 de Topologie Algébrique](https://topologie-2026.sciencesconf.org/?lang=en); Grenoble, France.
 - November 2026: [Moduli spaces and beyond](https://www.math.uni-bonn.de/people/ozornova/Moduli.html); Bonn, Germany.
+- November 2026: Higher Geometric Structures along the Lower Rhine XXI; Bonn, Germany. 
 - February 2027: [Equivariant homotopy and algebraic K-theory](https://www.birs.ca/events/2027/5-day-workshops/27w5768) BIRS Workshop; Banff, Alberta (Canada).
 - May 2027: [Homotopical combinatorics](https://www.birs.ca/events/2027/5-day-workshops/27w5760) CMO workshop; Oaxaca, Mexico.
 - May-June 2027: [Scissors congruence K-theory and manifolds](https://www.birs.ca/events/2027/5-day-workshops/27w5728) BIRS Workshop; Banff, Alberta (Canada).

@@ -28,7 +28,7 @@ author:
   location         : "Mathematical Institute 2.003"
   employer         : "University of Bonn"
   uri              : # url 
-  email            : "callem [at] math.uni-bonn [dot] de" 
+  email            : "callem [at] math.uni-bonn.de" 
 
   # Academic websites
   academia         : # URL
@@ -36,7 +36,7 @@ author:
   googlescholar    : # "https://scholar.google.com/citations?user=U588BYwAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # "https://orcid.org/0000-0001-9007-4385"
+  orcid            : "https://orcid.org/0000-0001-9007-4385"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
