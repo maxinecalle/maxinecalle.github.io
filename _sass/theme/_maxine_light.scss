@@ -59,7 +59,7 @@ $banner-image-path          : "/images/banner-light.jpg";
     --global-masthead-link-color-hover  : #{$text-muted};
     --global-text-color                 : #{$text};
     --global-text-color-light           : #{$text-muted};
-    --global-thead-color                : #{$background-light};
+    --global-head-color                 : #{$background-light};
     --global-banner-image               : #{"url('" + $banner-image-path + "')"};
 }
 

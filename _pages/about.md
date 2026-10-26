@@ -21,8 +21,6 @@ Here is my [CV](/files/CalleCV.pdf).
 - In Summer 2023, I was an [AAAS-AMS Mass Media Fellow](https://www.aaas.org/programs/mass-media-fellowship) at [The Conversation US](https://theconversation.com/us). Learn more about what I worked on [here](https://www.aaas.org/programs/mass-media-fellowship/maxine-elena-calle) or check out [my article for AMS Notices](https://www.ams.org/journals/notices/202402/noti2872/noti2872.html?adat=February%202024&amp;trk=2872&amp;galt=none&amp;cat=interest&amp;pdfissue=202402&amp;pdffile=rnoti-p274.pdf).
 
 <h2 style="color:var(--global-accent-color);">Upcoming travel, seminars, and conferences</h2>
-- October 2026: AIM SQuaReS program with [Julie Bergner](https://sites.google.com/view/julie-bergner/), [David Chan](https://sites.google.com/view/davidchanmath), [Angélica Osorno](https://people.reed.edu/~aosorno/), and [Maru Sarazola](https://sites.google.com/view/msarazola/home); AIM (at Caltech), CA (although I will participate remotely).
-- October 2026: [Rencontre 2026 de Topologie Algébrique](https://topologie-2026.sciencesconf.org/?lang=en); Grenoble, France.
 - November 2026: [Moduli spaces and beyond](https://www.math.uni-bonn.de/people/ozornova/Moduli.html); Bonn, Germany.
 - November 2026: Higher Geometric Structures along the Lower Rhine XXI; Bonn, Germany. 
 - February 2027: [Equivariant homotopy and algebraic K-theory](https://www.birs.ca/events/2027/5-day-workshops/27w5768) BIRS Workshop; Banff, Alberta (Canada).
@@ -34,6 +32,8 @@ Here is my [CV](/files/CalleCV.pdf).
 <details>
   <summary><strong>See past travel, seminars, and conferences</strong></summary>
  <ul>
+<li>October 2026: AIM SQuaReS program with <a href="https://sites.google.com/view/julie-bergner/">Julie Bergner</a>, <a href="https://sites.google.com/view/davidchanmath">David Chan</a>, <a href="https://people.reed.edu/~aosorno/">Angélica Osorno</a>, and <a href="https://sites.google.com/view/msarazola/home">Maru Sarazola</a>; AIM (at Caltech), CA (although I participated remotely).</li>
+<li> October 2026: <a href="https://topologie-2026.sciencesconf.org/?lang=en">Rencontre 2026 de Topologie Algébrique</a>; Grenoble, France.</li>
 <li>September 2026: eCHT research seminar; <a href="https://echtorc.github.io/">online</a>.</li>
 <li>September 2026: Abstract homotopy theory seminar; MPIM, Bonn.</li>
 <li>September 2026: <a href="https://www.mpim-bonn.mpg.de/nps60" target="_blank">New Perspectives on Stable Homotopy and Beyond</a>; MPIM, Bonn.</li>
